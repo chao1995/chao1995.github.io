@@ -27,7 +27,7 @@ author = "Chao"
 description = "Chao's personal website"
 keywords = "developer,personal"
 info = ["Always a student."]
-avatarURL = "https://github.com/chao1995/chao1995.github.io/blob/main/assets/images/chao1995.jpg?raw=true"
+avatarURL = "/images/chao1995.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2025
